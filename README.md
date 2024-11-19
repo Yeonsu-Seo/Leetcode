@@ -1,2 +1,2 @@
 # Leetcode
-<img src="score.png">
+<img src="score2.png">
